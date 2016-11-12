@@ -1,4 +1,4 @@
-# kiwibot
+# kiwibot Primaria
 Escudo para Arduino UNO:
 Orientado a trabajar con S4A en primaria y que incluya una conmutación en la que trabaje en modo makey-makey
 Pines S4A:
